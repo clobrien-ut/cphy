@@ -6,15 +6,15 @@ This repository is contains data processing and machine-learning training code, 
 
 ---
 ### Requirements:
-Python
-Jupyter Notebook
-*Package requirements listed within files*
+Python \
+Jupyter Server/Notebook \
+*Package requirements listed within files* 
 
 ### Usage:
 1. Access data via UTBox folder https://utexas.app.box.com/folder/238524022917.  If you do not have access but are authorized, contact repo owner at clobrien@utexas.edu.
 	* Input (DER Output) data is stored in `input_data` folder.
 	* Output (processed DataFrames) data is stored in `data_clean` folder.
-2. If processing your own files, run `dataCleaning.ipynb` to process input ROOT file and output a Pandas DataFrame to CSV, located in `./data_clean`.  If not, skip to step 3.
+2. If processing your own files, run `dataCleaning.ipynb` to process input ROOT file(s) and output a Pandas DataFrame to CSV, located in `./data_clean`.  If not, skip to step 3.
 
 4. Run `training.ipynb` to process the DataFrame files stored in `data_clean` through the CVAE.
 
