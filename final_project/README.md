@@ -9,6 +9,7 @@ Python
 Jupyter Notebook
 *Package requirements listed within files*
 ### Usage:
+Authorized access to data is required to use this repo.  
 1. Run `dataCleaning.ipynb` to process input ROOT file and output a Pandas DataFrame to CSV, located in `./data_clean`
 2. Run `training.ipynb` to process the DataFrame through the CVAE
 
