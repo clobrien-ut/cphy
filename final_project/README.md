@@ -2,7 +2,7 @@
 # PHY 381C Final Project
 ## **Generative Model of Lux-Zeplin Detector Electronic Response** ##
 ### *Chloe O'Brien and Gregory Sehr* ###
-This repository is contains data processing and machine-learning training code, which takes in Lux-Zeplin (LZ) Detector Electronic Response (DER) output as input and trains a Conditional Variational Auto Encoder (CVAE) to build a generative model that can generate DER waveforms from raw PMT photon data.  As the DER code is computationally intensive, this model intends to allow for quickened simulation of DER waveforms.
+This repository is contains data processing and machine-learning training code, which takes in Lux-Zeplin (LZ) Detector Electronic Response (DER) output as input and trains a Conditional Variational Autoencoder (CVAE) to build a generative model that can generate DER waveforms from raw PMT photon data.  As the DER code is computationally intensive, this model intends to allow for quickened simulation of DER waveforms.
 
 ---
 ### Requirements:
