@@ -8,7 +8,7 @@ This repository is contains data processing and machine-learning training code, 
 ### Requirements:
 Python \
 Jupyter Server/Notebook \
-*Package requirements listed within files* 
+*Note: Package requirements listed within files* 
 
 ### Usage:
 1. Access data via UTBox folder https://utexas.app.box.com/folder/238524022917.  If you do not have access but are authorized, contact repo owner at clobrien@utexas.edu.
